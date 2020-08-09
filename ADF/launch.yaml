@@ -15,3 +15,4 @@ multibody configs:
   - "./target3.yaml" #8
   - "./env.yaml" #9
   - "./gynae.yaml" #10
+  - "./needle.yaml" #11
